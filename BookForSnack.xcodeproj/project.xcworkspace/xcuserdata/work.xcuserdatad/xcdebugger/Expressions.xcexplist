@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "static DummyData.getFromDatabase() -&gt; [Restaurant]:DummyData.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "all[0].getRestaurantNameO()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RestaurantViewController.updateSearchResults(for : UISearchController) -&gt; ():RestaurantViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchResults">
+            </PersistentString>
+            <PersistentString
+               value = "restaurants">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RedesignedDetailViewController.prepare(for:sender:):RedesignedDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "restaurant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Restaurant.init(name : String, type : String, location : String, phone : String, image : String, isVisited : Bool) -&gt; Restaurant:Restaurant.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.restaurantImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.viewDidLoad():MapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "restaurant.getRestaurantName()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RestaurantViewController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:RestaurantViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "restaurants[0]">
+            </PersistentString>
+            <PersistentString
+               value = "restaurants[indexPos]">
+            </PersistentString>
+            <PersistentString
+               value = "restaurants[indexPos].getRestaurantName()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RestaurantViewController.determineData() -&gt; ():RestaurantViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Restaurant.(setterRestaurantImage(String?) -&gt; ()).(closure #1):Restaurant.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "restaurantImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddRestaurantViewController.saveButtonItem(sender : UINavigationItem) -&gt; ():AddRestaurantViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imagePath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static DummyData.initDataForRestaurants() -&gt; [Restaurant]:DummyData.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data[0]">
+            </PersistentString>
+            <PersistentString
+               value = "data.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RestaurantViewController.viewDidLoad() -&gt; ():RestaurantViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "restaurants.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "Title"; ObjectID = "41a-tv-u62"; */
+"41a-tv-u62.text" = "Titel";
+
+/* Class = "UITabBarItem"; badgeValue = "About"; ObjectID = "TBr-BG-Mxl"; */
+"TBr-BG-Mxl.badgeValue" = "Über";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "rQf-ud-Zvc"; */
+"rQf-ud-Zvc.title" = "Über";
+
